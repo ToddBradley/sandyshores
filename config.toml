@@ -1,0 +1,5 @@
+baseURL = "http://ascromintended.com/sandyshores/"
+languageCode = "en-us"
+title = "Sandy Shores"
+theme = "ananke"
+sectionPagesMenu = "main"
