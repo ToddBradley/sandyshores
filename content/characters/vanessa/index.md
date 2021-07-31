@@ -11,5 +11,16 @@ draft: false
 * Character Name: Vanessa Four - [PDF](<Vanessa the Leftover - playbook.pdf>)
 * Player Name: Todd Bradley
 * Playbook: Leftover
+* Look: Short hair, short dresses
+* Background: Escaped from The Domed City
+* Taboo: Witholding Aid
+* Deals with vice through Duty
 
-![Vanessa](vanessa.png)
+### Hooks
+
+* Enemy: JL-B8, a replicant. (put more detail here)
+* Friend: Nine Cat Nine, a radio voice. (put more detail here)
+
+### Photos
+
+![Vanessa](vanessa.png "Vanessa Four in a short dress")
