@@ -4,6 +4,7 @@ date: 2021-07-31T09:12:22-06:00
 draft: false
 ---
 
+![](oyo-sheet.png)
 
 ## Character Details
 

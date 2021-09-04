@@ -4,6 +4,7 @@ date: 2021-07-25T14:58:02-06:00
 draft: false
 ---
 
+![](vanessa-sheet.png)
 
 ## Character Details
 

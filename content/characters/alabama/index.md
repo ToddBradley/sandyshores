@@ -4,6 +4,8 @@ date: 2021-07-18T18:49:03-06:00
 draft: false
 ---
 
+![](alabama-sheet.png)
+
 ## Character Details
 
 * Character Name: Alabama Morrison - [PDF](<Alabama the Shark - playbook.pdf>)
